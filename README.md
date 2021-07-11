@@ -1,4 +1,4 @@
-# Руководство по написанию CSS-кода для :barber:«Oldboy&nbsp;Barbershop»:barber:
+# Руководство по написанию CSS-кода
 
 Данное руководство основано на стайлгайдах от [@mdo](https://github.com/mdo/code-guide), [Sass Guideguide](https://sass-guidelin.es) и [Idiomatic CSS](https://github.com/necolas/idiomatic-css). 
 
